@@ -12,17 +12,19 @@ Here is a list of awesome games developed during the Hetzner Game Jam:
 
 [comment]: <> (add your game here, you can find an example at the end of this file)
 
----
-
-MyAwesomeGame (example)
+Magic Snail
 -----------------------
 
-<img src="images/hetzner_game_jam_logo_small.png" height="200">
+<img src="https://raw.githubusercontent.com/magic-snail/magic-snail/master/assets/images/snail_icon.png" height="200">
 
-- Link: [add a link to your game here]
+- Link: [Magic Snail](https://github.com/magic-snail/magic-snail)
 - Contributors:
-  - [add all game jammers that contributed to this game]
-- Description: This Game is not a Game, it is an example only.
+  - [entensee403](https://github.com/entensee403)
+  - [burned42](https://github.com/burned42)
+  - [EduardBaer](https://github.com/EduardBaer)
+  - [ThomasChr](https://github.com/ThomasChr)
+  - [DavidHetzner](https://github.com/DavidHetzner)
+- Description: You are a magic snail which can summon elements and thus defend itself against it's enemies.
 
 ---
 
@@ -42,4 +44,15 @@ Elematch
 - Screenshots:
   - ![images/elematch/elematch_ingame.png]
   - ![images/elematch/elematch_tutorial.png]
+---
+
+MyAwesomeGame (example)
+-----------------------
+
+<img src="images/hetzner_game_jam_logo_small.png" height="200">
+
+- Link: [add a link to your game here]
+- Contributors:
+  - [add all game jammers that contributed to this game]
+- Description: This Game is not a Game, it is an example only.
 ---
