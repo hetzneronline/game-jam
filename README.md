@@ -31,7 +31,9 @@ Magic Snail
 Elematch
 --------
 
-- Link: [repository](https://github.com/j-brn/elemettch)
+- Links:
+  - [play](http://elemat.ch)
+  - [repository](https://github.com/j-brn/elemettch)
 - Contributors:
   - [Christian Potsch](https://github.com/Cyberdog66)
   - [Thomas Schaefer](https://github.com/Holly1337)
