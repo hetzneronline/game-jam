@@ -12,12 +12,12 @@ Here is a list of awesome games developed during the Hetzner Game Jam:
 
 [comment]: <> (add your game here, you can find an example at the end of this file)
 
-Magic Snail Elements
+Magic Snail
 -----------------------
 
 <img src="https://raw.githubusercontent.com/magic-snail/magic-snail/master/assets/images/snail_icon.png" height="200">
 
-- Link: [Magic Snail Elements](https://github.com/magic-snail/magic-snail)
+- Link: [Magic Snail](https://github.com/magic-snail/magic-snail)
 - Contributors:
   - [entensee403](https://github.com/entensee403)
   - [burned42](https://github.com/burned42)
