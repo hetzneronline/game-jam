@@ -26,7 +26,7 @@ Magic Snail Elements
   - [ThomasChr](https://github.com/ThomasChr)
   - [DavidHetzner](https://github.com/DavidHetzner)
   - [entensee403](https://github.com/entensee403)
-- Description: You are a magic snail which can summon elements and thus defend agains here enemys.
+- Description: You are a magic snail which can summon elements and thus defend against it's enemys.
 
 ---
 
