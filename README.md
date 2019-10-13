@@ -56,6 +56,19 @@ UWE
 - Description: Uwe was just minding his own business when he unexpectedly fell into a dungeon and was attacked by elementals.
   Fight the elementals with their opposite element and score as many points as possible!
 
+Master of the Elements
+-----------------------
+
+- Link: [Master of the Elements](https://github.com/hgj-air/master-of-the-elements)
+- Contributors:
+  - [Ciapa](https://github.com/Ciapa)
+  - [Eric](https://github.com/sloinger)
+  - [n-se](https://github.com/n-se)
+  - [luki9100](https://github.com/luki9100)
+  - [rexe200](https://github.com/rexe200)
+  - [auhsoj20](https://github.com/auhsoj20)
+- Description: Put on your VR glasses, defend yourself against the opponents and become the Master of Elements.
+
 ---
 
 MyAwesomeGame (example)
