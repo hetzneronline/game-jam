@@ -12,8 +12,6 @@ Here is a list of awesome games developed during the Hetzner Game Jam:
 
 [comment]: <> (add your game here, you can find an example at the end of this file)
 
----
-
 Magic Snail Elements
 -----------------------
 
