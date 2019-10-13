@@ -26,8 +26,6 @@ Magic Snail
   - [DavidHetzner](https://github.com/DavidHetzner)
 - Description: You are a magic snail which can summon elements and thus defend itself against it's enemies.
 
----
-
 Elematch
 --------
 
@@ -52,4 +50,3 @@ MyAwesomeGame (example)
 - Contributors:
   - [add all game jammers that contributed to this game]
 - Description: This Game is not a Game, it is an example only.
----
