@@ -31,8 +31,6 @@ Magic Snail
 Elematch
 --------
 
-<img src="images/hetzner_game_jam_logo_small.png" height="200">
-
 - Link: [repository](https://github.com/j-brn/elemettch)
 - Contributors:
   - [Christian Potsch](https://github.com/Cyberdog66)
@@ -41,9 +39,6 @@ Elematch
   - [Jonas Braun](https://github.com/j-brn)
   - [Raccon2709](https://github.com/Raccoon2709)
 - Description: The goal is to score as many points as possible by finding combinations of cards until time runs out. Different combinations are worth different amounts of points, depending on their complexity.
-- Screenshots:
-  - ![images/elematch/elematch_ingame.png]
-  - ![images/elematch/elematch_tutorial.png]
 ---
 
 MyAwesomeGame (example)
