@@ -39,6 +39,22 @@ Elematch
   - [Jonas Braun](https://github.com/j-brn)
   - [Raccon2709](https://github.com/Raccoon2709)
 - Description: The goal is to score as many points as possible by finding combinations of cards until time runs out. Different combinations are worth different amounts of points, depending on their complexity.
+
+UWE
+--------
+
+<img src="https://github.com/Herzmut-Games/uwe/raw/master/uwe_logo.png" height="200">
+
+- Links:
+  - [play](https://play.herzmut.games)
+  - [repository](https://github.com/Herzmut-Games/uwe)
+- Contributors:
+  - [Robert Müller](https://github.com/Flipez)
+  - [Marvin Altemeier](https://github.com/iMarv)
+  - [Patrick Schaffrath](https://github.com/patrickschaffrath)
+  - [Christopher Stöckl](https://github.com/c-stoeckl)
+- Description: Uwe was just minding his own business when he unexpectedly fell into a dungeon and was attacked by elementals.
+  Fight the elementals with their opposite element and score as many points as possible!
 ---
 
 MyAwesomeGame (example)
