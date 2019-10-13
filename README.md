@@ -23,5 +23,3 @@ MyAwesomeGame (example)
 - Contributors:
   - [add all game jammers that contributed to this game]
 - Description: This Game is not a Game, it is an example only.
-
----
