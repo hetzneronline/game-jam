@@ -15,7 +15,7 @@ Here is a list of awesome games developed during the Hetzner Game Jam:
 Magic Snail
 -----------------------
 
-<img src="https://raw.githubusercontent.com/magic-snail/magic-snail/master/assets/images/snail_icon.png" height="200">
+<img src="https://raw.githubusercontent.com/magic-snail/magic-snail/master/assets/images/magic-snail.png" height="200">
 
 - Link: [Magic Snail](https://github.com/magic-snail/magic-snail)
 - Contributors:
