@@ -28,6 +28,21 @@ Magic Snail
 
 ---
 
+Elematch
+--------
+
+- Links:
+  - [play](http://elemat.ch)
+  - [repository](https://github.com/elematch/elemettch)
+- Contributors:
+  - [Christian Potsch](https://github.com/Cyberdog66)
+  - [Thomas Schaefer](https://github.com/Holly1337)
+  - [Dirk Ehrenschwender](https://github.com/dehrenschwender)
+  - [Jonas Braun](https://github.com/j-brn)
+  - [Raccon2709](https://github.com/Raccoon2709)
+- Description: The goal is to score as many points as possible by finding combinations of cards until time runs out. Different combinations are worth different amounts of points, depending on their complexity.
+---
+
 MyAwesomeGame (example)
 -----------------------
 
@@ -37,3 +52,4 @@ MyAwesomeGame (example)
 - Contributors:
   - [add all game jammers that contributed to this game]
 - Description: This Game is not a Game, it is an example only.
+---
