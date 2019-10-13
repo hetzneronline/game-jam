@@ -14,6 +14,22 @@ Here is a list of awesome games developed during the Hetzner Game Jam:
 
 ---
 
+Magic Snail Elements
+-----------------------
+
+<img src="https://raw.githubusercontent.com/magic-snail/magic-snail/master/assets/build/screenshot.png" height="200">
+
+- Link: [https://github.com/magic-snail/magic-snail]
+- Contributors:
+  - [https://github.com/burned42]
+  - [https://github.com/EduardBaer]
+  - [https://github.com/ThomasChr]
+  - [https://github.com/DavidHetzner]
+  - [https://github.com/entensee403]
+- Description: You are a magic snail which can summon elements and thus defend agains here enemys.
+
+---
+
 MyAwesomeGame (example)
 -----------------------
 
