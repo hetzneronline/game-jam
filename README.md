@@ -13,7 +13,7 @@ Here is a list of awesome games developed during the Hetzner Game Jam:
 [comment]: <> (add your game here, you can find an example at the end of this file)
 
 Magic Snail
------------------------
+-----------
 
 <img src="https://raw.githubusercontent.com/magic-snail/magic-snail/master/assets/images/magic-snail.png" height="200">
 
@@ -39,21 +39,6 @@ Elematch
   - [Jonas Braun](https://github.com/j-brn)
   - [Raccon2709](https://github.com/Raccoon2709)
 - Description: The goal is to score as many points as possible by finding combinations of cards until time runs out. Different combinations are worth different amounts of points, depending on their complexity.
----
-
-Elematch
---------
-
-- Links:
-  - [play](http://elemat.ch)
-  - [repository](https://github.com/elematch/elemettch)
-- Contributors:
-  - [Christian Potsch](https://github.com/Cyberdog66)
-  - [Thomas Schaefer](https://github.com/Holly1337)
-  - [Dirk Ehrenschwender](https://github.com/dehrenschwender)
-  - [Jonas Braun](https://github.com/j-brn)
-  - [Raccon2709](https://github.com/Raccoon2709)
-- Description: The goal is to score as many points as possible by finding combinations of cards until time runs out. Different combinations are worth different amounts of points, depending on their complexity.
 
 UWE
 --------
@@ -70,6 +55,7 @@ UWE
   - [Christopher Stöckl](https://github.com/c-stoeckl)
 - Description: Uwe was just minding his own business when he unexpectedly fell into a dungeon and was attacked by elementals.
   Fight the elementals with their opposite element and score as many points as possible!
+
 ---
 
 MyAwesomeGame (example)
