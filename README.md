@@ -22,3 +22,6 @@ MyAwesomeGame (example)
 - Link: [add a link to your game here]
 - Contributors:
   - [add all game jammers that contributed to this game]
+- Description: This Game is not a Game, it is an example only.
+
+---
