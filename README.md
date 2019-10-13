@@ -24,7 +24,7 @@ Magic Snail
   - [EduardBaer](https://github.com/EduardBaer)
   - [ThomasChr](https://github.com/ThomasChr)
   - [DavidHetzner](https://github.com/DavidHetzner)
-- Description: You are a magic snail which can summon elements and thus defend against it's enemys.
+- Description: You are a magic snail which can summon elements and thus defend itself against it's enemies.
 
 ---
 
