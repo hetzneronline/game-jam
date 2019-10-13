@@ -39,6 +39,19 @@ Elematch
   - [Jonas Braun](https://github.com/j-brn)
   - [Raccon2709](https://github.com/Raccoon2709)
 - Description: The goal is to score as many points as possible by finding combinations of cards until time runs out. Different combinations are worth different amounts of points, depending on their complexity.
+
+Master of the Elements
+-----------------------
+
+- Link: [Master of the Elements](https://github.com/hgj-air/master-of-the-elements)
+- Contributors:
+  - [Ciapa](https://github.com/Ciapa)
+  - [Eric](https://github.com/sloinger)
+  - [n-se](https://github.com/n-se)
+  - [luki9100](https://github.com/luki9100)
+  - [rexe200](https://github.com/rexe200)
+  - [auhsoj20](https://github.com/auhsoj20)
+- Description: Put on your VR glasses, defend yourself against the opponents and become the Master of Elements.
 ---
 
 MyAwesomeGame (example)
