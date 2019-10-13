@@ -33,7 +33,7 @@ Elematch
 
 - Links:
   - [play](http://elemat.ch)
-  - [repository](https://github.com/j-brn/elemettch)
+  - [repository](https://github.com/elematch/elemettch)
 - Contributors:
   - [Christian Potsch](https://github.com/Cyberdog66)
   - [Thomas Schaefer](https://github.com/Holly1337)
