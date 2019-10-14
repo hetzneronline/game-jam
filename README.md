@@ -29,6 +29,8 @@ Magic Snail
 Elematch
 --------
 
+<img src="https://raw.githubusercontent.com/elematch/elematch/master/screenshots/elematch_ingame.png" height="200">
+
 - Links:
   - [play](https://elemat.ch)
   - [repository](https://github.com/elematch/elematch)
