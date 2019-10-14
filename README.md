@@ -69,6 +69,20 @@ Master of the Elements
   - [auhsoj20](https://github.com/auhsoj20)
 - Description: Put on your VR glasses, defend yourself against the opponents and become the Master of Elements.
 
+Entelements (UntitledElements)
+------------
+
+- Link: [Entelements](https://github.com/funffreunde/untitledelements)
+- Contributors:
+  - [Kawetsch](https://github.com/Kawetsch)
+  - [blanky0230](https://github.com/blanky0230)
+  - [dpomykanov](https://github.com/dpomykanov)
+  - [gameshooter22](https://github.com/gameshooter22)
+  - [Jerry1801](https://github.com/Jerry1801)
+  - [Nemsin](https://github.com/nemsin)
+  - [PH01NiX](https://github.com/PH01NiX)
+- Description: Maneuver the water shooting duck to the other side of the map while extinguishing fires and finding hidden caverns.
+
 ---
 
 MyAwesomeGame (example)
