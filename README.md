@@ -14,7 +14,17 @@ Here is a list of awesome games developed during the Hetzner Game Jam:
 
 Magic Crawl
 -----------
-- Link: https://github.com/Tuhlienn/HetznerGameJam
+<img src="https://media.githubusercontent.com/media/Tuhlienn/HetznerGameJam/master/Screenshots/Screenshot_2.png" height="200">
+
+- Link: [Magic Crawl](https://github.com/Tuhlienn/HetznerGameJam)
+-  Contributors:
+  - [maddias93](https://github.com/maddias93)
+  - Marcel Volland
+  - [Miraculixxx](https://github.com/Miraculixxx)
+  - [oOTheNoNameOo](https://github.com/oOTheNoNameOo)
+  - Polster
+  - [Tuhlienn](https://github.com/Tuhlienn)
+- Description: Fight waves of different monsters with elements and effect spells modifying the elements. Monsters have different resistances and waves get more difficult each time.
 
 Magic Snail
 -----------
