@@ -61,6 +61,8 @@ UWE
 Master of the Elements
 -----------------------
 
+<img src="https://raw.githubusercontent.com/hgj-air/master-of-the-elements/master/images/mote.png" height="200">
+
 - Link: [Master of the Elements](https://github.com/hgj-air/master-of-the-elements)
 - Contributors:
   - [Ciapa](https://github.com/Ciapa)
