@@ -1,8 +1,10 @@
-![Hetzner Game Jam 2023](images/hetzner_game_jam_logo.svg "Hetzner Game Jam 2023")
+![Hetzner Game Jam](images/hetzner_game_jam_logo.svg "Hetzner Game Jam")
+
+# Hetzner Game Jam 2023
 
 To get you started you can take a look at [hgj-getting-started](https://github.com/hetzneronline/hgj-getting-started.git).
 
-If you participated in the Hetzner Game Jam 2023, please open a pull request adding your game to the list of games.
+If you participated in the Hetzner Game Jam, please open a pull request adding your game to the list of games.
 It would also be nice if you could add a screenshot (either to your own repository, or here)
 If you need help with that, just contact us.
 
