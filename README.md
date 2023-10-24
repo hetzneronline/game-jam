@@ -16,10 +16,6 @@ Here is a list of awesome games developed during the Hetzner Game Jam 2023:
 
 ---
 
-You can find the games developed during Hetzner Game Jam 2019 [here](hetzner_game_jam_2019.md).
-
----
-
 MyAwesomeGame (example)
 -----------------------
 
@@ -29,3 +25,7 @@ MyAwesomeGame (example)
 - Contributors:
   - [add all game jammers that contributed to this game]
 - Description: This Game is not a Game, it is an example only.
+
+---
+
+You can find the games developed during Hetzner Game Jam 2019 [here](hetzner_game_jam_2019.md).
