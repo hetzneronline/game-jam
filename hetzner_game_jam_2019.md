@@ -16,7 +16,6 @@ Here is a list of awesome games developed during the Hetzner Game Jam 2019:
 
 Magic Crawl
 -----------
-<img src="https://media.githubusercontent.com/media/Tuhlienn/HetznerGameJam/master/Screenshots/Screenshot_2.png" height="200">
 
 - Link: [Magic Crawl](https://github.com/Tuhlienn/HetznerGameJam)
 - Contributors:
