@@ -57,6 +57,19 @@ Chomp & Chew
   - Bastian Reuther [@bastifpv](https://github.com/bastifpv)
 - Description: In Chomp and Chew drehst du am Rad der Evolution. Du frisst andere Tiere, um zu wachsen und die Tierwelt zu dominieren. Bist du bereit, dich in diesen tierischen Cycle zu stürzen?
 
+Mooncycle
+---------
+
+<img src="images/mooncycle.PNG" height="200">
+
+- Link: [https://github.com/mooncycle-project/mooncycle](https://github.com/mooncycle-project/mooncycle)
+- Contributors:
+  - [@j-brn](https://github.com/j-brn)
+  - [@susa0](https://github.com/susa0)
+  - [@jgero](https://github.com/jgero)
+  - [@mucer](https://github.com/mucer)
+- Description: Rette die Erde mit Hilfe des Mondes vor Asteroiden und Kometen. Wehre die Asteroiden ab indem du sie wegkickst.
+
 ---
 
 MyAwesomeGame (example)
