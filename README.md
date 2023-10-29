@@ -28,4 +28,21 @@ MyAwesomeGame (example)
 
 ---
 
+Chomp & Chew
+-----------------------
+
+<img src="images/chompnchew.png" height="200">
+
+- Link: [https://github.com/ChrisDrake6/HetznerGameJam/](https://github.com/ChrisDrake6/HetznerGameJam/)
+- Contributors:
+  - Annika Sening [@annikasen](https://www.github.com/annikasen)
+  - Jasper Fox [@JayBeeEff](https://www.github.com/JayBeeEff)
+  - Robert Renkenberger [@RobertRenk](https://www.github.com/RobertRenk)
+  - Maximilian Beck [@milihamster](https://www.github.com/milihamster)
+  - Christoph Ehrig [@ChrisDrake6](https://www.github.com/ChrisDrake6)
+  - Bastian Reuther [@bastifpv](https://www.github.com/bastifpv)
+- Description: In Chomp and Chew drehst du am Rad der Evolution. Du frisst andere Tiere, um zu wachsen und die Tierwelt zu dominieren. Bist du bereit, dich in diesen tierischen Cycle zu stürzen?
+
+---
+
 You can find the games developed during Hetzner Game Jam 2019 [here](hetzner_game_jam_2019.md).
