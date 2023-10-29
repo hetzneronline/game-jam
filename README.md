@@ -60,7 +60,7 @@ Chomp & Chew
 Mooncycle
 ---------
 
-<img src="images/mooncycle.PNG" height="200">
+<img src="images/mooncycle.png" height="200">
 
 - Link: [https://github.com/mooncycle-project/mooncycle](https://github.com/mooncycle-project/mooncycle)
 - Contributors:
@@ -70,10 +70,8 @@ Mooncycle
   - [@mucer](https://github.com/mucer)
 - Description: Rette die Erde mit Hilfe des Mondes vor Asteroiden und Kometen. Wehre die Asteroiden ab indem du sie wegkickst.
 
----
-
 Uwe - Das U ist fast ein Kreis
------------------------
+------------------------------
 
 <img src="images/uwe-2.png" height="200">
 
@@ -84,7 +82,7 @@ Uwe - Das U ist fast ein Kreis
   - Alex
   - Joshi (Twitch Engineer)
   - Lars (Sound Engineer)
-- Beschreibung: Uwes Kopf dreht sich im Kreis, vier Jahre nachdem er sich gegen seltsame elementare Monster [verteidigen musste](https://github.com/Herzmut-Games/uwe) wacht er nun nach einem langen Wochenende im Wald auf und versucht nicht zu sterben. 
+- Beschreibung: Uwes Kopf dreht sich im Kreis, vier Jahre nachdem er sich gegen seltsame elementare Monster [verteidigen musste](https://github.com/Herzmut-Games/uwe) wacht er nun nach einem langen Wochenende im Wald auf und versucht nicht zu sterben.
 
 ---
 
