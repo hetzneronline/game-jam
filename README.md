@@ -89,7 +89,7 @@ Uwe - Das U ist fast ein Kreis
 TidalHarvest
 ------------
 
-<img src="images/ship.png" height="200">
+<img src="images/tidal_harvest.png" height="200">
 
 - Link: [https://github.com/konrad2002/TidalHarvest](https://github.com/konrad2002/TidalHarvest)
 - Contributors:
@@ -98,22 +98,21 @@ TidalHarvest
   - Paul
 - Description: Build your farm :)
 
----
-
 Mährathon
------------------------
+---------
 
-<img src="images/poster.png" height="200">
+<img src="images/maehrathon.png" height="200">
 
-- Link: https://mährathon.de
-- Repo: https://github.com/pauhull/maehrathon
-- Mitwirkende:
+- Links:
+  - [play](https://mährathon.de)
+  - [repository](https://github.com/pauhull/maehrathon)
+- Contributors:
   - Daniel
   - David
   - Hannes
   - Paul
 - Beschreibung: Mährathon ist ein Jump'n'Run, in dem man das Schaf Fridolin auf seiner Reise über die Erdkugel begleitet.
-  
+
 ---
 
 MyAwesomeGame (example)
