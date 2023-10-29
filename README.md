@@ -59,6 +59,22 @@ Chomp & Chew
 
 ---
 
+Uwe - Das U ist fast ein Kreis
+-----------------------
+
+<img src="images/uwe-2.png" height="200">
+
+- Link: [Itch.io](https://flipez.itch.io/herzmut-games-hgj2023), [Github](https://github.com/Herzmut-Games/hgj-2023)
+- Mitwirkende:
+  - Robert
+  - Marv
+  - Alex
+  - Joshi (Twitch Engineer)
+  - Lars (Sound Engineer)
+- Beschreibung: Uwes Kopf dreht sich im Kreis, vier Jahre nachdem er sich gegen seltsame elementare Monster [verteidigen musste](https://github.com/Herzmut-Games/uwe) wacht er nun nach einem langen Wochenende im Wald auf und versucht nicht zu sterben. 
+
+---
+
 MyAwesomeGame (example)
 -----------------------
 
