@@ -86,16 +86,16 @@ Uwe - Das U ist fast ein Kreis
   - Lars (Sound Engineer)
 - Beschreibung: Uwes Kopf dreht sich im Kreis, vier Jahre nachdem er sich gegen seltsame elementare Monster [verteidigen musste](https://github.com/Herzmut-Games/uwe) wacht er nun nach einem langen Wochenende im Wald auf und versucht nicht zu sterben.
 
----
-
-TidalHarvest 
------------------------
+TidalHarvest
+------------
 
 <img src="images/ship.png" height="200">
 
-- Link: [https://github.com/konrad2002/TidalHarvest]
+- Link: [https://github.com/konrad2002/TidalHarvest](https://github.com/konrad2002/TidalHarvest)
 - Contributors:
-  - [Carmen, Konrad, Paul]
+  - Carmen
+  - Konrad
+  - Paul
 - Description: Build your farm :)
 
 ---
