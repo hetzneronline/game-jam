@@ -100,6 +100,22 @@ TidalHarvest
 
 ---
 
+Mährathon
+-----------------------
+
+<img src="images/poster.png" height="200">
+
+- Link: https://mährathon.de
+- Repo: https://github.com/pauhull/maehrathon
+- Mitwirkende:
+  - Daniel
+  - David
+  - Hannes
+  - Paul
+- Beschreibung: Mährathon ist ein Jump'n'Run, in dem man das Schaf Fridolin auf seiner Reise über die Erdkugel begleitet.
+  
+---
+
 MyAwesomeGame (example)
 -----------------------
 
