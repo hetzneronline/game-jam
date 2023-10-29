@@ -28,6 +28,20 @@ Roundtrip
   - [justrenworks](https://github.com/justrenworks)
 - Description: You're a wizard and you need to get down to the dungeon in an endless cycle down the staircase. Fight your way through different monsters each vulnerable to specific elements. Luckily as a wizard you know some spells combining different elements to defeat the monsters.
 
+Endless Voyage
+--------------
+
+<img src="https://github.com/EndlessVoyage/endlessVoyage/raw/main/gameScreenhot.png" height="200">
+
+- Link: [https://github.com/EndlessVoyage/endlessVoyage](https://github.com/EndlessVoyage/endlessVoyage)
+- Contributors:
+  - [entensee403](https://github.com/entensee403)
+  - [Bennyyuke](https://github.com/Bennyyuke)
+  - [Seoholy](https://github.com/Seoholy)
+  - [JanicCode](https://github.com/JanicCode)
+  - [ThomasChr](https://github.com/ThomasChr)
+- Description: You are a sailor waking up (drunk) on your ship. Everyone seems to be gone, and you're racing towards your death.
+
 Chomp & Chew
 ------------
 
