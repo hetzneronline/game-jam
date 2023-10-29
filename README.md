@@ -68,6 +68,8 @@ Mooncycle
   - [@susa0](https://github.com/susa0)
   - [@jgero](https://github.com/jgero)
   - [@mucer](https://github.com/mucer)
+  - [@30leo03](https://github.com/30leo03)
+  - [@atmidian](https://github.com/atmidian)
 - Description: Rette die Erde mit Hilfe des Mondes vor Asteroiden und Kometen. Wehre die Asteroiden ab indem du sie wegkickst.
 
 Uwe - Das U ist fast ein Kreis
