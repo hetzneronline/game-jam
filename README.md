@@ -91,7 +91,7 @@ Uwe - Das U ist fast ein Kreis
 Mährathon
 -----------------------
 
-<img src="NovusGames/poster.png" height="200">
+<img src="images/poster.png" height="200">
 
 - Link: https://mährathon.de
 - Repo: https://github.com/pauhull/maehrathon
