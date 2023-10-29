@@ -86,6 +86,18 @@ Uwe - Das U ist fast ein Kreis
 
 ---
 
+TidalHarvest 
+-----------------------
+
+<img src="images/ship.png" height="200">
+
+- Link: [https://github.com/konrad2002/TidalHarvest]
+- Contributors:
+  - [Carmen, Konrad, Paul]
+- Description: Build your farm :)
+
+---
+
 MyAwesomeGame (example)
 -----------------------
 
