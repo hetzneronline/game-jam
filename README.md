@@ -47,7 +47,7 @@ Chomp & Chew
 
 <img src="images/chompnchew.png" height="200">
 
-- Link: [https://github.com/ChrisDrake6/HetznerGameJam/](https://github.com/ChrisDrake6/HetznerGameJam/)
+- Link: [https://github.com/milihamster/HetznerGameJam](https://github.com/milihamster/HetznerGameJam)
 - Contributors:
   - Annika Sening [@annikasen](https://github.com/annikasen)
   - Jasper Fox [@JayBeeEff](https://github.com/JayBeeEff)
