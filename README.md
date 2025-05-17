@@ -14,6 +14,21 @@ Here is a list of awesome games developed during the Hetzner Game Jam 2025:
 
 [comment]: <> (add your game to this list, you can find an example at the end of this file)
 
+Baguette Ballett
+----------------
+
+<img src="https://github.com/baguette-ballett/baguette-ballett/blob/main/assets/screenshots/intro.png" height="200">
+
+- Link: [https://github.com/baguette-ballett/baguette-ballett](https://github.com/baguette-ballett/baguette-ballett)
+- Contributors:
+  - [atmidian](https://github.com/atmidian)
+  - [burned42](https://github.com/burned42)
+  - [EduardBaer](https://github.com/EduardBaer)
+  - [entensee403](https://github.com/entensee403)
+  - [RobertRenk](https://github.com/RobertRenk)
+  - [ThomasChr](https://github.com/ThomasChr)
+- Description: Mother duck needs to feed her children and luckily there's a boy with lots of baguettes. Be efficient and _balance_ the baguettes on your head, so you need less trips to the pond to feed your ducklings.
+
 ---
 
 MyAwesomeGame (example)
