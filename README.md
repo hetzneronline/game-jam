@@ -101,9 +101,9 @@ Quacksalber
 Thermal Stability
 ----------------------
 
-<i![hintergrund](https://github.com/user-attachments/assets/bc154f0a-142a-4ee5-b57b-ed856963c043)
+![hintergrund](https://github.com/user-attachments/assets/bc154f0a-142a-4ee5-b57b-ed856963c043)
 
-- Link: (https://elena0705.itch.io/thermalstability)
+- Link: https://elena0705.itch.io/thermalstability
   
 - Contributors:
 Alexander Auer - Gameplay Programming & Logic
