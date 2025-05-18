@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 9f353adf4e24f754790799cede2daf61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5555775779647766609
+    second: Tapete_Cut_0
+  - first:
+      213: 384725814649865236
+    second: Tapete_Cut_1
+  - first:
+      213: -7061431811792040902
+    second: Tapete_Cut_2
+  - first:
+      213: 2727514697886979938
+    second: Tapete_Cut_3
+  - first:
+      213: 7840815084365090634
+    second: Tapete_Cut_4
+  - first:
+      213: 4877030868467555818
+    second: Tapete_Cut_5
+  - first:
+      213: -4778008785342565848
+    second: Tapete_Cut_6
+  - first:
+      213: 150321466460173088
+    second: Tapete_Cut_7
+  - first:
+      213: 6315071737870054624
+    second: Tapete_Cut_8
+  - first:
+      213: 24360993324495208
+    second: Tapete_Cut_9
+  - first:
+      213: -3313956406462634670
+    second: Tapete_Cut_10
+  - first:
+      213: 2132314696928026284
+    second: Tapete_Cut_11
+  - first:
+      213: 2165084269719931352
+    second: Tapete_Cut_12
+  - first:
+      213: 7013050919921357730
+    second: Tapete_Cut_13
+  - first:
+      213: 1767149850006351440
+    second: Tapete_Cut_14
+  - first:
+      213: 2181727570829594421
+    second: Tapete_Cut_15
+  - first:
+      213: 5183390414026016848
+    second: Tapete_Cut_16
+  - first:
+      213: 1192838143396791160
+    second: Tapete_Cut_17
+  - first:
+      213: 5230255817141646388
+    second: Tapete_Cut_18
+  - first:
+      213: 7302364375713263358
+    second: Tapete_Cut_19
+  - first:
+      213: 7357495744678499422
+    second: Tapete_Cut_20
+  - first:
+      213: -4114600714531976923
+    second: Tapete_Cut_21
+  - first:
+      213: -1468310659664374490
+    second: Tapete_Cut_22
+  - first:
+      213: -1927826937068866510
+    second: Tapete_Cut_23
+  - first:
+      213: -6068205764641709793
+    second: Tapete_Cut_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tapete_Cut_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 650
+        width: 1294
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150cf95c2a41a1d40800000000000000
+      internalID: 5555775779647766609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_1
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 938
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414c02e0712d65500800000000000000
+      internalID: 384725814649865236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 812
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c0e742e21c00e90800000000000000
+      internalID: -7061431811792040902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 699
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267d53faa241ad520800000000000000
+      internalID: 2727514697886979938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_4
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 697
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f0b1dd6cb20dc60800000000000000
+      internalID: 7840815084365090634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_5
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 699
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed9f993cb1bea340800000000000000
+      internalID: 4877030868467555818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_6
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 697
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822f5ff135a11bdb0800000000000000
+      internalID: -4778008785342565848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_7
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 697
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023797ac39c061200800000000000000
+      internalID: 150321466460173088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 657
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e47ad27944a3a750800000000000000
+      internalID: 6315071737870054624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 657
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8617b71c13c865000800000000000000
+      internalID: 24360993324495208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_10
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 657
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2552aa7d4367202d0800000000000000
+      internalID: -3313956406462634670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 663
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae5dbb5be0879d10800000000000000
+      internalID: 2132314696928026284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_12
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 657
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d941751caceb0e10800000000000000
+      internalID: 2165084269719931352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_13
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 662
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a393a9a7ac535160800000000000000
+      internalID: 7013050919921357730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_14
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 661
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e63820d6d268810800000000000000
+      internalID: 1767149850006351440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_15
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 661
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f49f79aad074e10800000000000000
+      internalID: 2181727570829594421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_16
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 661
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0588f286e1a1fe740800000000000000
+      internalID: 5183390414026016848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 654
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873c3b3b8ffcd8010800000000000000
+      internalID: 1192838143396791160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 652
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434f52164f9959840800000000000000
+      internalID: 5230255817141646388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_19
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 656
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe2bdac5b5375560800000000000000
+      internalID: 7302364375713263358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_20
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 653
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54920ae5631b1660800000000000000
+      internalID: 7357495744678499422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_21
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 656
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529c0c1437006e6c0800000000000000
+      internalID: -4114600714531976923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_22
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 655
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62519c60c338f9be0800000000000000
+      internalID: -1468310659664374490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_23
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 653
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234b4936d9bfe35e0800000000000000
+      internalID: -1927826937068866510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tapete_Cut_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 624
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11ad8ef10769cba0800000000000000
+      internalID: -6068205764641709793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tapete_Cut_0: 5555775779647766609
+      Tapete_Cut_1: 384725814649865236
+      Tapete_Cut_10: -3313956406462634670
+      Tapete_Cut_11: 2132314696928026284
+      Tapete_Cut_12: 2165084269719931352
+      Tapete_Cut_13: 7013050919921357730
+      Tapete_Cut_14: 1767149850006351440
+      Tapete_Cut_15: 2181727570829594421
+      Tapete_Cut_16: 5183390414026016848
+      Tapete_Cut_17: 1192838143396791160
+      Tapete_Cut_18: 5230255817141646388
+      Tapete_Cut_19: 7302364375713263358
+      Tapete_Cut_2: -7061431811792040902
+      Tapete_Cut_20: 7357495744678499422
+      Tapete_Cut_21: -4114600714531976923
+      Tapete_Cut_22: -1468310659664374490
+      Tapete_Cut_23: -1927826937068866510
+      Tapete_Cut_24: -6068205764641709793
+      Tapete_Cut_3: 2727514697886979938
+      Tapete_Cut_4: 7840815084365090634
+      Tapete_Cut_5: 4877030868467555818
+      Tapete_Cut_6: -4778008785342565848
+      Tapete_Cut_7: 150321466460173088
+      Tapete_Cut_8: 6315071737870054624
+      Tapete_Cut_9: 24360993324495208
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

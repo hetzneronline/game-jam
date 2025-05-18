@@ -1,0 +1,4 @@
+flask #==3.1.1.
+requests==2.32.3
+cryptography==45.0.2
+tailscale==0.6.2 

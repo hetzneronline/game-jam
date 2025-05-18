@@ -1,0 +1,45 @@
+# Unity Version
+Unity 2022.3.18f1 or later
+
+# Required Unity Packages
+com.unity.2d.sprite@1.0.0 or later
+com.unity.textmeshpro@3.0.6 or later
+com.unity.render-pipelines.universal@12.1.10 or later
+
+# Additional requirements
+- C# 9.0 support
+- Git for version control
+- Visual Studio 2019/2022 or Visual Studio Code with Unity tools
+- Python 3.8+ (for AI server)
+- Tailscale VPN (for remote AI connections)
+- See src/python/requirements.txt for Python dependencies
+
+# Development Requirements
+- Windows 10/11 or macOS 11.0+
+- 8GB RAM minimum (16GB recommended)
+- Graphics card with DX11 capability
+
+# Ollama 38B Model Requirements
+- 32GB RAM minimum for model loading
+- GPU with 40GB+ VRAM for optimal performance
+- Ollama runtime (Windows or Linux)
+- Alternative: 8B model variant for systems with lower specifications
+
+# Build Platforms
+- Windows 64-bit
+- macOS
+- WebGL
+
+# Package Dependencies
+# These packages are included with Unity but listed here for reference
+com.unity.2d.animation@7.0.10
+com.unity.2d.pixel-perfect@5.0.3
+com.unity.2d.tilemap@1.0.0
+com.unity.collab-proxy@2.0.4
+com.unity.ide.rider@3.0.21
+com.unity.ide.visualstudio@2.0.18
+com.unity.ide.vscode@1.2.5
+com.unity.test-framework@1.1.33
+com.unity.timeline@1.6.5
+com.unity.ugui@1.0.0
+com.unity.visualscripting@1.8.0
