@@ -97,6 +97,21 @@ Quacksalber
 
 ---
 
+Silent Gardener
+-----------------------
+
+<img src="https://github.com/Entjic/silent-gardener/blob/master/assets/logo.png?raw=true" height="200">
+
+- Link: https://github.com/Entjic/silent-gardener
+- Contributors:
+  - [Carmen](https://github.com/Carmen-Kissel)
+  - [Konrad](https://github.com/konrad2002)
+  - [Luca](https://github.com/Luca-Guettinger)
+  - [Paul](https://github.com/Entjic)
+  - Marc & Lena
+- Description: Nurture your plants, grow a cute little garden and find your inner balance.
+
+---
 
 MyAwesomeGame (example)
 -----------------------
