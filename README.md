@@ -109,6 +109,18 @@ MyAwesomeGame (example)
 - Description: This Game is not a Game, it is an example only.
 
 ---
+Balance_drill
+-----------------------
+
+- Link: [https://github.com/Schunik67/Balance2]
+- Contributors:
+  - [Florian]
+  - [Niko]
+  - [Inga]
+  - [Johannes]
+- Description: Tunnel-digging game about maintaining balance between nature and machines
+
+---
 
 Interested in games developed during our previous Game Jams?
 You can find all previous events here:
