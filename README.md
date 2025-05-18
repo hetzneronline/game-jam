@@ -78,6 +78,20 @@ Pathetic Hosting
 - Description: Ever wanted to build your own hosting company and be mean at the same time? Well, you're totally at the right place at the right time! Introducing: Pathetic Hosting! Start your company, upgrade your servers, and attack the enemy. But be careful! The load on your servers rises quickly! Do you upgrade your servers to withstand the load, or spend money to attack and damage your opponent? It's totally up to you, but your company is ruined blazing fast. The right balance is what matters!
 
 ---
+Mirror Dash
+----------------
+
+<img src="https://raw.githubusercontent.com/MikaStiebitz/Mirror-Dash/refs/heads/master/client/public/assets/logo_4.png" height="400">
+
+- Link: [https://github.com/MikaStiebitz/Mirror-Dash](https://github.com/MikaStiebitz/Mirror-Dash)
+- Contributors:
+  - [Mika Stiebitz](https://github.com/MikaStiebitz)
+  - [Nico Fuchs](https://github.com/nico-byte)
+  - [Matthias Laton](https://github.com/20DragonSlayer01)
+  - [Josef Graf](https://github.com/Eikligan)
+  - Robin Korn
+- Description: Experience a unique cooperative platform adventure where perspective matters! In this multiplayer browser game, players navigate through challenging levels with a twist - each player sees their own character in the top half of the screen while viewing their partner in a mirrored world below. Coordinate your movements, avoid hazards, and reach the finish line together as you navigate through increasingly difficult platforming challenges where what you see isn't necessarily what your partner sees.
+---
 
 MyAwesomeGame (example)
 -----------------------
