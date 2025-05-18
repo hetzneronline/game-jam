@@ -46,6 +46,21 @@ Baguette Ballett
 
 ---
 
+Food Balance
+-----------------------
+
+<img src="images/food_balance.png" height="200">
+
+- Link: [https://github.com/nataly-devqa/gamejam-2025-food-balance](https://github.com/nataly-devqa/gamejam-2025-food-balance)
+- Contributors:
+  - [nataly-devqa](https://github.com/nataly-devqa)
+  - [devbydiana](https://github.com/DevByDiana)
+  - [sasukiuchiha03](https://github.com/SasukeUchiha03)
+  - [Stefan Kuehne]
+- Description: Your body needs nutrients – and junk food won’t help! In Nutribalance, you catch healthy foods like milk, iron, and vitamins falling from the sky. But watch out: three donuts are enough to ruin everything. Find the perfect nutritional balance to win!
+
+---
+
 Pathetic Hosting
 ----------------
 
