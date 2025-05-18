@@ -104,16 +104,16 @@ For the AI character interaction system, you'll need to set up the Python enviro
    ```
 4. Follow the prompts to complete the server setup
 
-### Ollama 38B Model Setup
+### Ollama 8B Model Setup
 
-For advanced AI-powered NPCs and dialogue systems, this project uses the Ollama 38B LLM. Follow these instructions to set it up:
+For advanced AI-powered NPCs and dialogue systems, this project uses the Ollama 8B LLM. Follow these instructions to set it up:
 
 #### Windows Setup
 1. Download Ollama from the [official website](https://ollama.com/download/windows)
 2. Install Ollama by running the downloaded installer
 3. Open Command Prompt or PowerShell and run:
    ```
-   ollama pull llama3:38b
+   ollama pull llama3:8b
    ```
 4. Start the Ollama service:
    ```
@@ -121,7 +121,7 @@ For advanced AI-powered NPCs and dialogue systems, this project uses the Ollama 
    ```
 5. Verify installation by running:
    ```
-   ollama run llama3:38b "Hello, Escape Room 2025!"
+   ollama run llama3:8b "Hello, Escape Room 2025!"
    ```
 
 #### Linux Setup
@@ -129,9 +129,9 @@ For advanced AI-powered NPCs and dialogue systems, this project uses the Ollama 
    ```bash
    curl -fsSL https://ollama.com/install.sh | sh
    ```
-2. Pull the 38B model:
+2. Pull the 8B model:
    ```bash
-   ollama pull llama3:38b
+   ollama pull llama3:8b
    ```
 3. Start the Ollama service:
    ```bash
@@ -139,10 +139,8 @@ For advanced AI-powered NPCs and dialogue systems, this project uses the Ollama 
    ```
 4. Verify installation by running:
    ```bash
-   ollama run llama3:38b "Hello, Escape Room 2025!"
+   ollama run llama3:8b "Hello, Escape Room 2025!"
    ```
-
-**Note**: The 38B model requires at least 32GB of RAM and a GPU with 40GB+ VRAM for optimal performance. For systems with lower specifications, consider using the 8B model variant instead (`ollama pull llama3:8b`).
 
 ### Flask Server & Tailscale Setup
 
