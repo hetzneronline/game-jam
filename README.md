@@ -97,6 +97,35 @@ Quacksalber
 
 ---
 
+Silent Gardener
+-----------------------
+
+<img src="https://github.com/Entjic/silent-gardener/blob/master/assets/logo.png?raw=true" height="200">
+
+- Link: https://github.com/Entjic/silent-gardener
+- Contributors:
+  - [Carmen](https://github.com/Carmen-Kissel)
+  - [Konrad](https://github.com/konrad2002)
+  - [Luca](https://github.com/Luca-Guettinger)
+  - [Paul](https://github.com/Entjic)
+  - Marc & Lena
+- Description: Nurture your plants, grow a cute little garden and find your inner balance.
+
+---
+
+ChaosLab
+-----------------------
+
+<img src="https://github.com/Changeable99/GameJam/blob/main/GAMETHUMBNAIL.png?raw=true" height="200">
+
+- Link: https://github.com/Changeable99/GameJam
+- Contributors:
+  - Felix Nutz
+  - Paul Debus
+  - Markus Zankel
+- Description: This Game is about managing your chaotic laboratory.
+
+---
 
 MyAwesomeGame (example)
 -----------------------
