@@ -79,6 +79,18 @@ Pathetic Hosting
 
 ---
 
+Quacksalber
+----------------
+- Link: https://github.com/hedwigmiau/Quaksalber
+- Contributors:
+  - [Nilo](https://github.com/hedwigmiau)
+  - Annakonda
+- Description: The duck pharmacist wants to heal its customers. Either it succeeds in restoring the animals' inner balance or its clients suffer negative consequences.
+
+
+---
+
+
 MyAwesomeGame (example)
 -----------------------
 
