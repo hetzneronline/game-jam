@@ -31,6 +31,24 @@ Baguette Ballett
 
 ---
 
+Pathetic Hosting
+----------------
+
+<img src="images/Logo-Pathetic-Hosting.png" height="200">
+
+- Link: 
+  - [https://github.com/Joinsider/HetznerGamejam2025](https://github.com/Joinsider/HetznerGamejam2025)
+  - [https://hennielp.itch.io/pathetic-hosting](https://hennielp.itch.io/pathetic-hosting)
+- Contributors:
+  - [HennieLP](https://github.com/HennieLP)
+  - [Joinsider](https://github.com/Joinsider)
+  - [Placeblock](https://github.com/Placeblock)
+  - Thea
+
+- Description: Ever wanted to build your own hosting company and be mean at the same time? Well, you're totally at the right place at the right time! Introducing: Pathetic Hosting! Start your company, upgrade your servers, and attack the enemy. But be careful! The load on your servers rises quickly! Do you upgrade your servers to withstand the load, or spend money to attack and damage your opponent? It's totally up to you, but your company is ruined blazing fast. The right balance is what matters!
+
+---
+
 MyAwesomeGame (example)
 -----------------------
 
