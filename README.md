@@ -98,15 +98,24 @@ Quacksalber
 ---
 
 
-MyAwesomeGame (example)
------------------------
+Thermal Stability
+----------------------
 
-<img src="images/hetzner_game_jam_logo_small.png" height="200">
+<i![hintergrund](https://github.com/user-attachments/assets/bc154f0a-142a-4ee5-b57b-ed856963c043)
 
-- Link: [add a link to your game here]
+- Link: (https://elena0705.itch.io/thermalstability)
+  
 - Contributors:
-  - [add all game jammers that contributed to this game]
-- Description: This Game is not a Game, it is an example only.
+Alexander Auer - Gameplay Programming & Logic
+Elena Jung - UI Design, Programming, 3D
+Jasper Fox - 3D Modeling
+Julius Löhner - 3D Modeling, Fire Particles
+
+
+- Description:
+Keep the flames alive—but under control! Don’t let too many fueling items fall into the oven, or the fire will overheat. But watch out—if extinguishing items slip in, they might put your fire out completely!
+
+Maintain the perfect burn: when things get too hot, cool it down just enough with the right extinguishing items. How long can you keep the balance?
 
 ---
 
