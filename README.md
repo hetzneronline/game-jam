@@ -14,6 +14,21 @@ Here is a list of awesome games developed during the Hetzner Game Jam 2025:
 
 [comment]: <> (add your game to this list, you can find an example at the end of this file)
 
+Paws on the Wire
+-----------------------
+
+<img src="https://raw.githubusercontent.com/Raevren/hetznergamejam2025/main/docs/screen_shot_start_screen.png" height="200">
+
+- Link: [Jetzt Spielen](https://github.com/Raevren/hetznergamejam2025/blob/main/README.md)
+- Contributors:
+  - [Nico](https://github.com/Raevren)
+  - [Johanna](https://github.com/jxna4))
+  - [Selina](https://github.com/xL1nkl3))
+  - [Pascal](https://github.com/PascalHelmerich)
+- Description: In Paws on the Wire, you control a brave bear who must prove his balance on a high wire at dizzying heights. By alternately pressing **A** and **D**, you guide him step by step across the tightrope. Quick reflexes are essential — during the walk, quick-time events will test your nerves and timing!
+
+---
+
 Baguette Ballett
 ----------------
 
