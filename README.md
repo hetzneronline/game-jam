@@ -130,7 +130,21 @@ Balance the Pond
   - Lisetta
   - [mychecknix](https://github.com/mychecknix)
 
+ChaosLab
+--------
+
+<img src="https://github.com/Changeable99/GameJam/blob/main/GAMETHUMBNAIL.png?raw=true" height="200">
+
+- Link: https://github.com/Changeable99/GameJam
+- Contributors:
+  - Felix Nutz
+  - Paul Debus
+  - Markus Zankel
+- Description: This Game is about managing your chaotic laboratory.
+
+
 ---
+
 
 MyAwesomeGame (example)
 -----------------------
