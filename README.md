@@ -156,6 +156,24 @@ Balance Drill
 ---
 
 
+Potion Comotion
+-----------------------
+
+<img src="images/hetzner_game_jam_logo_small.png" height="200">
+
+- Link: [https://github.com/Risen1801/HetznerGameJam]
+- Contributors:
+  - [https://github.com/ChrisDrake6]
+  - [https://github.com/GarNicWahr]
+  - [https://github.com/Strawberry-xD]
+  - [https://github.com/iCeeker]
+  - [https://github.com/Risen1801]
+- Description: A Game where two people Battle each other to disturb the balance of the opponents scale.
+
+
+---
+
+
 MyAwesomeGame (example)
 -----------------------
 
