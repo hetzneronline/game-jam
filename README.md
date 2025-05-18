@@ -46,21 +46,6 @@ Baguette Ballett
 
 ---
 
-Food Balance
------------------------
-
-<img src="images/food_balance.png" height="200">
-
-- Link: [https://github.com/nataly-devqa/gamejam-2025-food-balance](https://github.com/nataly-devqa/gamejam-2025-food-balance)
-- Contributors:
-  - [nataly-devqa](https://github.com/nataly-devqa)
-  - [devbydiana](https://github.com/DevByDiana)
-  - [sasukiuchiha03](https://github.com/SasukeUchiha03)
-  - [Stefan Kuehne]
-- Description: Your body needs nutrients – and junk food won’t help! In Nutribalance, you catch healthy foods like milk, iron, and vitamins falling from the sky. But watch out: three donuts are enough to ruin everything. Find the perfect nutritional balance to win!
-
----
-
 Pathetic Hosting
 ----------------
 
@@ -76,6 +61,19 @@ Pathetic Hosting
   - Thea
 
 - Description: Ever wanted to build your own hosting company and be mean at the same time? Well, you're totally at the right place at the right time! Introducing: Pathetic Hosting! Start your company, upgrade your servers, and attack the enemy. But be careful! The load on your servers rises quickly! Do you upgrade your servers to withstand the load, or spend money to attack and damage your opponent? It's totally up to you, but your company is ruined blazing fast. The right balance is what matters!
+
+---
+
+Balance the Pond
+----------------
+
+<img src="images/BalanceThePond.png" height="200">
+
+- Link: [https://github.com/mychecknix/BalanceThePond](https://github.com/mychecknix/BalanceThePond)
+- Contributors:
+  - Felix
+  - Lisetta
+  - [mychecknix](https://github.com/mychecknix)
 
 ---
 
