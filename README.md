@@ -155,6 +155,22 @@ Balance Drill
 
 ---
 
+Blob Jump
+-----------------------
+
+<img src="https://raw.githubusercontent.com/HikerScout/blob-jump/refs/heads/main/title_screen.png" height="200">
+
+- Link: https://github.com/HikerScout/blob-jump
+- Contributors:
+  - [HikerScout](https://github.com/HikerScout)
+  - [SomeDude-strgV](https://github.com/SomeDude-strgV)
+  - Mareike Jennes
+  - Simon Lehmeyer
+  - Johannes Frey
+- Possibly the best game made. Local multiplayer platformer game featuring Blib and Blob.
+
+---
+
 
 Potion Comotion
 -----------------------
