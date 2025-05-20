@@ -92,7 +92,7 @@ Mirror Dash
 
 
 Quacksalber
-----------------
+-----------
 
 - Link: [https://github.com/hedwigmiau/Quaksalber](https://github.com/hedwigmiau/Quaksalber)
 - Contributors:
@@ -146,17 +146,15 @@ Balance Drill
 
 - Link: [https://github.com/Schunik67/Balance2](https://github.com/Schunik67/Balance2)
 - Contributors:
-  - [Florian]
-  - [Niko]
-  - [Inga]
-  - [Johannes]
+  - Florian
+  - Niko
+  - Inga
+  - Johannes
 - Description: Tunnel-digging game about maintaining balance between nature and machines
 
 
----
-
 Blob Jump
------------------------
+---------
 
 <img src="https://raw.githubusercontent.com/HikerScout/blob-jump/refs/heads/main/title_screen.png" height="200">
 
@@ -169,38 +167,33 @@ Blob Jump
   - Johannes Frey
 - Possibly the best game made. Local multiplayer platformer game featuring Blib and Blob.
 
----
-
 
 Potion Comotion
------------------------
+---------------
 
 <img src="images/hetzner_game_jam_logo_small.png" height="200">
 
 - Link: [https://github.com/Risen1801/HetznerGameJam]
 - Contributors:
-  - [https://github.com/ChrisDrake6]
-  - [https://github.com/GarNicWahr]
-  - [https://github.com/Strawberry-xD]
-  - [https://github.com/iCeeker]
-  - [https://github.com/Risen1801]
+  - [ChrisDrake6](https://github.com/ChrisDrake6)
+  - [GarNicWahr](https://github.com/GarNicWahr)
+  - [Strawberry-xD](https://github.com/Strawberry-xD)
+  - [iCeeker](https://github.com/iCeeker)
+  - [Risen1801](https://github.com/Risen1801)
 - Description: A Game where two people Battle each other to disturb the balance of the opponents scale.
 
 
----
-
-
 Escape Room
------------------------
+-----------
 
 <img src="https://github.com/leonhard-behr/game_jam/blob/main/screenshot.png?raw=true" height="200">
 
 - Link: [https://github.com/leonhard-behr/game_jam](https://github.com/leonhard-behr/game_jam)
 - Contributors:
-  - [https://github.com/leonhard-behr]
-  - [https://github.com/klein2712]
-  - [https://github.com/eich302]
-  - [https://github.com/Paddi1234]
+  - [leonhard-behr](https://github.com/leonhard-behr)
+  - [klein2712](https://github.com/klein2712)
+  - [eich302](https://github.com/eich302)
+  - [Paddi1234](https://github.com/Paddi1234)
 - Description: A small Escape Room game where the player communicates with an Ollama hosted LLM to solve the riddles.
 
 
