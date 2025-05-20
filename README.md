@@ -94,6 +94,8 @@ Mirror Dash
 Quacksalber
 -----------
 
+<img src="images/hetzner_game_jam_logo_small.png" height="200">
+
 - Link: [https://github.com/hedwigmiau/Quaksalber](https://github.com/hedwigmiau/Quaksalber)
 - Contributors:
   - [Nilo](https://github.com/hedwigmiau)
@@ -143,6 +145,8 @@ ChaosLab
 
 Balance Drill
 -------------
+
+<img src="images/hetzner_game_jam_logo_small.png" height="200">
 
 - Link: [https://github.com/Schunik67/Balance2](https://github.com/Schunik67/Balance2)
 - Contributors:
