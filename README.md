@@ -197,6 +197,20 @@ Escape Room
 - Description: A small Escape Room game where the player communicates with an Ollama hosted LLM to solve the riddles.
 
 
+Thermal Stability
+-----------------
+
+<img src="https://github.com/user-attachments/assets/bc154f0a-142a-4ee5-b57b-ed856963c043" height="200">
+
+- Link: [https://elena0705.itch.io/thermalstability](https://elena0705.itch.io/thermalstability)
+- Contributors:
+  - Alexander Auer - Gameplay Programming & Logic
+  - Elena Jung - UI Design, Programming, 3D
+  - Jasper Fox - 3D Modeling
+  - Julius Löhner - 3D Modeling, Fire Particles
+- Description: Keep the flames alive—but under control! Don’t let too many fueling items fall into the oven, or the fire will overheat. But watch out—if extinguishing items slip in, they might put your fire out completely! Maintain the perfect burn: when things get too hot, cool it down just enough with the right extinguishing items. How long can you keep the balance?
+
+
 ---
 
 
