@@ -72,7 +72,6 @@ Pathetic Hosting
   - [Joinsider](https://github.com/Joinsider)
   - [Placeblock](https://github.com/Placeblock)
   - Thea
-
 - Description: Ever wanted to build your own hosting company and be mean at the same time? Well, you're totally at the right place at the right time! Introducing: Pathetic Hosting! Start your company, upgrade your servers, and attack the enemy. But be careful! The load on your servers rises quickly! Do you upgrade your servers to withstand the load, or spend money to attack and damage your opponent? It's totally up to you, but your company is ruined blazing fast. The right balance is what matters!
 
 
@@ -128,7 +127,7 @@ Balance the Pond
   - Felix
   - Lisetta
   - [mychecknix](https://github.com/mychecknix)
-
+- Description: A fox (Foxo) is looking for a new home and wants to restore the balance there.
 
 ChaosLab
 --------
@@ -169,7 +168,7 @@ Blob Jump
   - Mareike Jennes
   - Simon Lehmeyer
   - Johannes Frey
-- Possibly the best game made. Local multiplayer platformer game featuring Blib and Blob.
+- Description: Possibly the best game made. Local multiplayer platformer game featuring Blib and Blob.
 
 
 Potion Comotion
