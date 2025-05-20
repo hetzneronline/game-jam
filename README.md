@@ -23,8 +23,8 @@ Paws on the Wire
 - Link: [https://github.com/Raevren/hetznergamejam2025](https://github.com/Raevren/hetznergamejam2025)
 - Contributors:
   - [Nico](https://github.com/Raevren)
-  - [Johanna](https://github.com/jxna4))
-  - [Selina](https://github.com/xL1nkl3))
+  - [Johanna](https://github.com/jxna4)
+  - [Selina](https://github.com/xL1nkl3)
   - [Pascal](https://github.com/PascalHelmerich)
 - Description: In Paws on the Wire, you control a brave bear who must prove his balance on a high wire at dizzying heights. By alternately pressing **A** and **D**, you guide him step by step across the tightrope. Quick reflexes are essential — during the walk, quick-time events will test your nerves and timing!
 
