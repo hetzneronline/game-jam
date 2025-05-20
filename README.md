@@ -20,7 +20,7 @@ Paws on the Wire
 
 <img src="https://raw.githubusercontent.com/Raevren/hetznergamejam2025/main/docs/screen_shot_start_screen.png" height="200">
 
-- Link: [https://github.com/Raevren/hetznergamejam2025](https://github.com/Raevren/hetznergamejam2025/blob/main/README.md)
+- Link: [https://github.com/Raevren/hetznergamejam2025](https://github.com/Raevren/hetznergamejam2025)
 - Contributors:
   - [Nico](https://github.com/Raevren)
   - [Johanna](https://github.com/jxna4))
@@ -108,7 +108,7 @@ Silent Gardener
 
 <img src="https://github.com/Entjic/silent-gardener/blob/master/assets/logo.png?raw=true" height="200">
 
-- Link: https://github.com/Entjic/silent-gardener
+- Link: [https://github.com/Entjic/silent-gardener](https://github.com/Entjic/silent-gardener)
 - Contributors:
   - [Carmen](https://github.com/Carmen-Kissel)
   - [Konrad](https://github.com/konrad2002)
@@ -135,7 +135,7 @@ ChaosLab
 
 <img src="https://github.com/Changeable99/GameJam/blob/main/GAMETHUMBNAIL.png?raw=true" height="200">
 
-- Link: https://github.com/Changeable99/GameJam
+- Link: [https://github.com/Changeable99/GameJam](https://github.com/Changeable99/GameJam)
 - Contributors:
   - Felix Nutz
   - Paul Debus
@@ -162,7 +162,7 @@ Blob Jump
 
 <img src="https://raw.githubusercontent.com/HikerScout/blob-jump/refs/heads/main/title_screen.png" height="200">
 
-- Link: https://github.com/HikerScout/blob-jump
+- Link: [https://github.com/HikerScout/blob-jump](https://github.com/HikerScout/blob-jump)
 - Contributors:
   - [HikerScout](https://github.com/HikerScout)
   - [SomeDude-strgV](https://github.com/SomeDude-strgV)
@@ -177,7 +177,7 @@ Potion Comotion
 
 <img src="images/hetzner_game_jam_logo_small.png" height="200">
 
-- Link: [https://github.com/Risen1801/HetznerGameJam]
+- Link: [https://github.com/Risen1801/HetznerGameJam](https://github.com/Risen1801/HetznerGameJam)
 - Contributors:
   - [ChrisDrake6](https://github.com/ChrisDrake6)
   - [GarNicWahr](https://github.com/GarNicWahr)
