@@ -190,6 +190,23 @@ Potion Comotion
 ---
 
 
+Escape Room
+-----------------------
+
+<img src="https://github.com/leonhard-behr/game_jam/blob/main/screenshot.png?raw=true" height="200">
+
+- Link: [https://github.com/leonhard-behr/game_jam](https://github.com/leonhard-behr/game_jam)
+- Contributors:
+  - [https://github.com/leonhard-behr]
+  - [https://github.com/klein2712]
+  - [https://github.com/eich302]
+  - [https://github.com/Paddi1234]
+- Description: A small Escape Room game where the player communicates with an Ollama hosted LLM to solve the riddles.
+
+
+---
+
+
 MyAwesomeGame (example)
 -----------------------
 
