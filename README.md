@@ -119,7 +119,7 @@ Silent Gardener
 Balance the Pond
 ----------------
 
-<img src="images/BalanceThePond.png" height="200">
+<img src="https://github.com/mychecknix/BalanceThePond/blob/master/assets/backgrounds/Title4.png" height="200">
 
 - Link: [https://github.com/mychecknix/BalanceThePond](https://github.com/mychecknix/BalanceThePond)
 - Contributors:
