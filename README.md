@@ -214,8 +214,22 @@ Thermal Stability
 - Description: Keep the flames alive—but under control! Don’t let too many fueling items fall into the oven, or the fire will overheat. But watch out—if extinguishing items slip in, they might put your fire out completely! Maintain the perfect burn: when things get too hot, cool it down just enough with the right extinguishing items. How long can you keep the balance?
 
 
----
+Samurai Cat
+-----------
 
+<img src="images/hgj25_samurai_cat.png" height="200">
+
+- Link: [GitHub](https://github.com/SamuraiCatHGJ25/SamuraiCat)
+- Contributors:
+  - [EinnSteph](https://github.com/EinnSteph)
+  - [Hayajiro](https://github.com/Hayajiro)
+  - [Kogimyun1](https://github.com/Kogimyun1)
+  - [res-ponder](https://github.com/res-ponder)
+  - [reversal-red](https://github.com/reversal-red)
+- Description: As a lone Samurai Cat, you must navigate the delicate balance between strengthening your village's defenses and honing your own combat skills, all while facing threats from various foes that are trying to conquer the village. By carefully managing your resources, you can emerge victorious as the legendary guardian of the feline community.
+
+
+---
 
 MyAwesomeGame (example)
 -----------------------
