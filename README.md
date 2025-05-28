@@ -229,6 +229,17 @@ Samurai Cat
 - Description: As a lone Samurai Cat, you must navigate the delicate balance between strengthening your village's defenses and honing your own combat skills, all while facing threats from various foes that are trying to conquer the village. By carefully managing your resources, you can emerge victorious as the legendary guardian of the feline community.
 
 
+Balance Bastion
+-----------
+
+<img src="images/hgj25_balance_bastion.png" height="200">
+
+- Link: [GitHub](https://github.com/Ornhammer/BalanceBastion)
+- Contributors:
+  - [Ornhammer](https://github.com/Ornhammer)
+- Description: Welcome to Balance Bastion, a giant fortress sitting on a small pillar. Follow the fairy and collect as many treasures in the abandoned building as possible and try to escape back to the entrance before the whole thing falls over.
+
+
 ---
 
 MyAwesomeGame (example)
