@@ -129,6 +129,7 @@ Balance the Pond
   - [mychecknix](https://github.com/mychecknix)
 - Description: A fox (Foxo) is looking for a new home and wants to restore the balance there.
 
+
 ChaosLab
 --------
 
@@ -153,7 +154,7 @@ Balance Drill
   - Niko
   - Inga
   - Johannes
-- Description: Tunnel-digging game about maintaining balance between nature and machines
+- Description: Tunnel-digging game about maintaining balance between nature and machines.
 
 
 Blob Jump
@@ -230,7 +231,7 @@ Samurai Cat
 
 
 Balance Bastion
------------
+---------------
 
 <img src="images/hgj25_balance_bastion.png" height="200">
 
