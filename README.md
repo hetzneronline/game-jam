@@ -194,10 +194,10 @@ Escape Room
 
 - Link: [https://github.com/leonhard-behr/game_jam](https://github.com/leonhard-behr/game_jam)
 - Contributors:
-  - [leonhard-behr](https://github.com/leonhard-behr)
-  - [klein2712](https://github.com/klein2712)
-  - [eich302](https://github.com/eich302)
-  - [Paddi1234](https://github.com/Paddi1234)
+  - [Beonhard Behr](https://github.com/leonhard-behr) - AI Intigration and Programming
+  - [Laurin Klein](https://github.com/klein2712) - Level Dising and Programming 
+  - [Thilo Eichinger](https://github.com/eich302) - Level Desing
+  - [Patricia Glas](https://github.com/Paddi1234) - Disign
 - Description: A small Escape Room game where the player communicates with an Ollama hosted LLM to solve the riddles.
 
 
